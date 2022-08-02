@@ -1,19 +1,6 @@
-## onlineabedini **| Alireza Abedini**
 
-### international full stack developer 
+| `**onlineabedini**` | international web developer
 
-main web site => [onlineabedini.ir](onlineabedini.ir) | FOLLOW ME
+![enter image description here](https://avatars.githubusercontent.com/u/31417737?v=4)
 
-social media => @onlineabedini
-
----
-
-**SKIILS:**
-
-*   javascrip
-*   typescript
-*   vuejs
-*   nuxt
-*   Angular
-*   nodejs
-*   nestjs
+> working based on the result 

@@ -1,5 +1,5 @@
-# onlineabedini
-|  **`International Web Developer`**  |   **`Javascript`**  |  **`Full Stack`**  | **`Software engineering expert`**  |
+# `onlineabedini`
+**`International Web Developer`**  |   **`Javascript`**  |  **`Full Stack`**  | **`Software engineering expert`** 
 
 ------------
 

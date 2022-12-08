@@ -15,9 +15,7 @@ current position ---------------------------------------------------------------
 
 
 ### Resume and Samples
-[`Public resume ( For the private version ask me )`](https://github.com/onlineabedini/public-resume "`Public resume ( For the private version ask me )`") [ Click Here](https://github.com/onlineabedini/public-resume " Click Here")
-
-[`Project Samples` ](https://github.com/onlineabedini?tab=repositories "`Project Samples` ") [Click Here](https://github.com/onlineabedini?tab=repositories "Click Here")
+[`Public resume ( For the private version ask me )`](https://github.com/onlineabedini/public-resume "`Public resume ( For the private version ask me )`") [ Click Here](https://github.com/onlineabedini/public-resume " Click Here")  |  [`Project Samples` ](https://github.com/onlineabedini?tab=repositories "`Project Samples` ") [Click Here](https://github.com/onlineabedini?tab=repositories "Click Here")
 
 ------------
 ## onlineabedini npm  

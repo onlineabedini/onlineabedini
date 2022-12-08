@@ -10,13 +10,9 @@
 
 ------------
 
-current position: **Tractive Sdn Bhd**
-
-------------
+current position -------------------------------------------------------------------------------------------------------------------------**Tractive Sdn Bhd**
 > I work based on results, that's what makes my work unique! In a profitable and valuable project, it is enough for me to specify the goal in order to advance the project and reach the goal in a documentary way and like a documentary maker!
 
-**من بر اساس نتیجه کار میکنم!**
-> من بر اساس نتیجه کار می کنم، این چیزی است که  کار من را منحصر به فرد می کند! کافی است در یک پروژه پر سود و ارزشمند هدف برای من مشخص شود تا به صورت مستند و مانند یک مستند ساز پروژه را پیش ببرم و به هدف برسم!
 
 ### Resume and Samples
 [`Public resume ( For the private version ask me )`](https://github.com/onlineabedini/public-resume "`Public resume ( For the private version ask me )`") [ Click Here](https://github.com/onlineabedini/public-resume " Click Here")

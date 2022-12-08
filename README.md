@@ -3,12 +3,7 @@
 
 ------------
 
-- current position: Tractive Sdn Bhd
-- **Services:**
-	- Web Application Develop
-	- Cloud Base Development
-	- Social Bot  Development
-	- Engnearing and Develop teach
+current position: **Tractive Sdn Bhd**
 
 ------------
 > I work based on results, that's what makes my work unique! In a profitable and valuable project, it is enough for me to specify the goal in order to advance the project and reach the goal in a documentary way and like a documentary maker!

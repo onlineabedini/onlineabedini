@@ -11,16 +11,4 @@
 
 current position ---------------------------------------------------------------------------------------------------------------- **Tractive Sdn Bhd**
 > I work based on results, that's what makes my work unique! In a profitable and valuable project, it is enough for me to specify the goal in order to advance the project and reach the goal in a documentary way and like a documentary maker!
-
-
-### Resume and Samples
-[`Public resume ( For the private version ask me )`](https://github.com/onlineabedini/public-resume "`Public resume ( For the private version ask me )`") [ Click Here](https://github.com/onlineabedini/public-resume " Click Here")  |  [`Project Samples` ](https://github.com/onlineabedini?tab=repositories "`Project Samples` ") [Click Here](https://github.com/onlineabedini?tab=repositories "Click Here")
-
-------------
-## onlineabedini npm  
-> Install my package to develop easily
-
-`$ npm install onlineabedini`
-
-------------
 	

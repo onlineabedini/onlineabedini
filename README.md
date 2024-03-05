@@ -4,8 +4,35 @@
 
 # onlineabedini 
 
-<small><b> Full stack Web Developer </b></small> - <small>Skilled software developer with more than 4 years, proactive and Detail-Oriented Professional with Excellent Problem-Solving and Communication Skills</small>
+<small><b> Full stack Web Developer </b></small> - 
+<small>Skilled software developer with more than 4 years, proactive and Detail-Oriented Professional with Excellent Problem-Solving and Communication Skills</small>
 
+<a href="https://onlineabedini.ir/">
+<button style="background-color: #4CAF50; /* Green */
+border: none;
+color: white;
+padding: 10px 20px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+cursor: pointer;
+border-radius: 4px;">Visit Website</button> 
+</a>
+<a href="mailto:onlineabedini@gmail.com">
+<button style="background-color: #0969da; /* Green */
+border: none;
+color: white;
+padding: 10px 20px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+cursor: pointer;
+border-radius: 4px;">Contact Me</button>
+</a>
 
 ## Experiences
 | Title    | Field     | Description

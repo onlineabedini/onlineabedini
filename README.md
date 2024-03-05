@@ -20,6 +20,7 @@ margin: 4px 2px;
 cursor: pointer;
 border-radius: 4px;">Visit Website</button> 
 </a>
+|
 <a href="mailto:onlineabedini@gmail.com">
 <button style="background-color: #0969da; /* Green */
 border: none;

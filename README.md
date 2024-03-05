@@ -5,7 +5,7 @@
 # onlineabedini 
 
 <small><b> Full stack Web Developer </b></small> - 
-<small>Skilled software developer with more than 4 years, proactive and Detail-Oriented Professional with Excellent Problem-Solving and Communication Skills</small>
+<small>Skilled software developer with 5 years experience, proactive and Detail-Oriented Professional with Excellent Problem-Solving and Communication Skills</small>
 
 <a href="https://onlineabedini.ir/">
 <button style="background-color: #4CAF50; /* Green */

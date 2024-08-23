@@ -1,8 +1,4 @@
-# Online Abedini
-
-**Full Stack Web Developer**
-
----
+# Full Stack Web Developer
 
 ## Professional Experience
 

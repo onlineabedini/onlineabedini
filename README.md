@@ -1,5 +1,3 @@
-Here's a more polished and professional Markdown version for your GitHub profile based on your provided information:
-
 ---
 
 # Online Abedini

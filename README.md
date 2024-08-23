@@ -1,5 +1,3 @@
----
-
 # Online Abedini
 
 **Full Stack Web Developer**

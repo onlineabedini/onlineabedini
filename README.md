@@ -1,5 +1,3 @@
-# Full Stack Web Developer
-
 ## Professional Experience
 
 | **Title**                      | **Field**    | **Description**                                                                                                  |

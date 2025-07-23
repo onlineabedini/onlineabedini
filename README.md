@@ -4,7 +4,6 @@
 -->
 <h1 align="center">Adrian Abedini</h1>
 
-###
 
 <!--
   Section: Technology Stack

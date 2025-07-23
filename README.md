@@ -1,9 +1,25 @@
 <!--
   Section: Header
-  Display the name in the center
+  Display the name and title in the center
 -->
-<h1 align="center">Adrian Abedini</h1>
+<h1 align="center">Alireza Abedini</h1>
+<p align="center"><b>Full Stack Developer</b></p>
+<p align="center">
+  <a href="mailto:onlineabedini@gmail.com">onlineabedini@gmail.com</a> |
+  <a href="https://www.linkedin.com/in/adrian-software-engineer/">LinkedIn</a> |
+  <a href="https://github.com/onlineabedini">GitHub</a>
+</p>
 
+<!--
+  Section: Professional Summary
+  Brief, attractive summary of experience and goals
+-->
+<details open>
+  <summary><b>Professional Summary</b></summary>
+  <p>
+    Full-Stack Developer with over 5 years of experience delivering 100+ projects, including 2 published npm packages. Proficient in Node.js, NestJS, and TensorFlow.js, with a strong foundation in system design, data structures, and algorithms. Passionate about AI-driven software solutions, particularly in areas like OCR and image processing, inspired by innovative applications in software engineering. Seeking to contribute to cutting-edge research in Computer Science as a Master’s student at Boise State University, with a focus on scalable, impactful software systems.
+  </p>
+</details>
 
 <!--
   Section: Technology Stack
@@ -14,6 +30,8 @@
   <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="TensorFlow logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript logo" />
   <img width="12" />
 
   <!-- Back End -->
@@ -80,6 +98,26 @@
   <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="Bootstrap logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=svelte" height="60" alt="Svelte logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redux" height="60" alt="Redux logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=electron" height="60" alt="Electron logo" />
+  <img width="12" />
+
+  <!-- Tooling & Testing -->
+  <img src="https://skillicons.dev/icons?i=jest" height="60" alt="Jest logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="GraphQL logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=webpack" height="60" alt="Webpack logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=babel" height="60" alt="Babel logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=eslint" height="60" alt="ESLint logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cypress" height="60" alt="Cypress logo" />
   <img width="12" />
 
   <!-- UI/UX & Design -->
